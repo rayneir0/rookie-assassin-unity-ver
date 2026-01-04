@@ -6,6 +6,8 @@
 - Pressure plates mechanic
 - Created a game timer for high score tracking
 
+--- 
+
 ## How to Play the Game
 
 ### Main Menu Screen
@@ -37,9 +39,9 @@
 - You can go again to try to get through the dungeon faster.
 
 ## Assets Used
-Player, Enemy, Tileset, Lever, Pressure plate all made by me
-Nav Mesh Plus: https://github.com/h8man/NavMeshPlus 
-Animated Traps: https://stealthix.itch.io/animated-traps
-Music: https://pixabay.com/music/video-games-castle-of-athanasius-151010/
-Font: https://www.dafont.com/pixel-operator.font
+- Player, Enemy, Tileset, Lever, Pressure plate all made by me
+- Nav Mesh Plus: https://github.com/h8man/NavMeshPlus 
+-  Animated Traps: https://stealthix.itch.io/animated-traps
+- Music: https://pixabay.com/music/video-games-castle-of-athanasius-151010/
+- Font: https://www.dafont.com/pixel-operator.font
 
