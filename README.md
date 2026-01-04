@@ -6,7 +6,7 @@
 - Pressure plates mechanic
 - Created a game timer for high score tracking
 
-##How to Play the Game
+## How to Play the Game
 
 ### Main Menu Screen
 - First when you get into the game, you can use WADS or Arrow keys to move around
