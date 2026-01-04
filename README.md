@@ -1,5 +1,10 @@
-##Name
-Celia Chan
+# Rookie Assassin Remake in Unity
+
+## Changes made:
+- More levels, more traps
+- Implemented timers on traps and incremental timed traps.
+- Pressure plates mechanic
+- Created a game timer for high score tracking
 
 ##How to Play the Game
 
@@ -31,7 +36,6 @@ Celia Chan
 - When you have finished all three levels, you can go back to the main screen and see your fastest time.
 - You can go again to try to get through the dungeon faster.
 
-
 ## Assets Used
 Player, Enemy, Tileset, Lever, Pressure plate all made by me
 Nav Mesh Plus: https://github.com/h8man/NavMeshPlus 
@@ -39,7 +43,3 @@ Animated Traps: https://stealthix.itch.io/animated-traps
 Music: https://pixabay.com/music/video-games-castle-of-athanasius-151010/
 Font: https://www.dafont.com/pixel-operator.font
 
-Tutorials Followed:
-https://www.youtube.com/watch?v=FtQhX-lmYEA NavMeshPlus Tilemap Tutorial
-# rookie-assassin-unity-ver
-# rookie-assassin-unity-ver
